@@ -4,4 +4,5 @@
 - 💬 Criei este perfil afim de armazenar meus projetos desenvolvidos durante as aulas,
   e fora delas também!
 - 🤔 Meus principais interesses na área são: Data Science e desenvolvimento Web.
+- 📚 Sempre fui apaixonada por livros. 
 
