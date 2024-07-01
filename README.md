@@ -1,8 +1,7 @@
-## Olá!
+## Olá! Eu sou a Gabrielle!
 
-- Me chamo Gabrielle, tenho 20 anos e estou cursando o terceiro período de Ciência da Computação na PUC Minas.
-- Meus principais interesses são: Data Science e desenvolvimento Web.
-- Criei este perfil afim de armazenar meu desenvolvimento como programadora e me desenvolver na área. 
+- 20 anos, cursando Ciência da Computação na PUC Minas.
+- Meus maiores interesses são em Data Science e desenvolvimento Web.
 - Me encontre em:
   
 <div align="center"> 
