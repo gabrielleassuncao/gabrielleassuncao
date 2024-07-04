@@ -1,7 +1,7 @@
 ## Hello World!
 
 - Olá, eu sou a Gabrielle, tenho 20 anos,e estou cursando Ciência da Computação na PUC Minas.
-- Meus maiores interesses são em Data Science e desenvolvimento Web.
+- Sempre buscando evolução e progresso.
 
 ### Me encontre em:
   
