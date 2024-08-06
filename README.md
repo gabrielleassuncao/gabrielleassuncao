@@ -1,6 +1,6 @@
 ## Hello World!
 
-- Olá, eu sou a Gabrielle, tenho 20 anos,e estou cursando Ciência da Computação na PUC Minas.
+- Olá, eu sou a Gabrielle, tenho 21 anos,e estou cursando Ciência da Computação na PUC Minas.
 - Sempre buscando evolução e progresso.
 
 ### Me encontre em:
